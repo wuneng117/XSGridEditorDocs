@@ -12,4 +12,3 @@
 * [提供的其它支持功能](ti-gong-de-qi-ta-zhi-chi-gong-neng/README.md)
   * [相机类PanAndZoom](ti-gong-de-qi-ta-zhi-chi-gong-neng/xiang-ji-lei-panandzoom.md)
   * [网格显示管理类GridShowMgr](ti-gong-de-qi-ta-zhi-chi-gong-neng/wang-ge-xian-shi-guan-li-lei-gridshowmgr.md)
-  * [Page 1](ti-gong-de-qi-ta-zhi-chi-gong-neng/page-1.md)
