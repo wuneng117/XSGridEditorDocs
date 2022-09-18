@@ -9,7 +9,7 @@
 
 在Demo\_1场景中，相机主要涉及到这几个节点：
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (3).png>)
 
 
 
