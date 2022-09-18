@@ -1,9 +1,5 @@
 # 地图辅助组件 XSGridHelper
 
-[安达市多](di-tu-fu-zhu-zu-jian-xsgridhelper.md#1.tile-tie-dao-di-mian)
-
-
-
 这个组件挂在了Grid节点上，有几个按钮，如图1所示：
 
 ![图1](../.gitbook/assets/v2-985515611b7aa2b8b7c5027cfc79ad17\_720w.png)
